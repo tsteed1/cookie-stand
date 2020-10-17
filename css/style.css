@@ -1,0 +1,12 @@
+body {
+  background-color: salmon;
+  font-family: 'Sansita Swashed', cursive;
+  text-align: center;
+  text-decoration: rgb(144, 43, 40);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
