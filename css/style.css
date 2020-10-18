@@ -1,8 +1,14 @@
+h1 {
+  text-align: left;
+  font-size: 50px;  
+}
+
 body {
   background-color: salmon;
   font-family: 'Sansita Swashed', cursive;
   text-align: center;
   text-decoration: rgb(144, 43, 40);
+  padding: 100px;
 }
 img {
   display: block;
@@ -10,3 +16,14 @@ img {
   margin-right: auto;
   width: 30%;
 }
+tr,td:hover {
+  background-color: #9553c28e;
+  cursor: pointer;
+  cursor: crosshair;
+ 
+}
+table, td, th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
