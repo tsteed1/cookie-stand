@@ -17,13 +17,14 @@ img {
   width: 30%;
 }
 tr,td:hover {
-  background-color: #9553c28e;
+  background-color: #2b93f58a;
   cursor: pointer;
   cursor: crosshair;
  
 }
-table, td, th {
-  border: 1px solid black;
-  padding: 5px;
+td {
+ border: 2px;
+border-style: outset;
+padding: 3px;
 }
 
